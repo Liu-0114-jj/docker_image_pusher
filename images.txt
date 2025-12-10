@@ -1,7 +1,7 @@
 iden3/circom2
 ghcr.io/iden3/snarkjs
 risc0/risc0
-matterlabs/zk
+matterlabs/zksync
 mythril/myth
 trailofbits/eth-security-toolbox
 consensys/mythril
